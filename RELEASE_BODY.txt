@@ -1,0 +1,3 @@
+My optimized build for macOS Ventura, specifically tuned for the Dell Inspiron 3481.
+
+Test candidate: no physical boot tests; USB map and hardware identification still required.

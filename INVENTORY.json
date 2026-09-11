@@ -1,0 +1,1816 @@
+{
+  "original": [
+    {
+      "path": ".DS_Store",
+      "size": 8196,
+      "sha256": "d31429b26752f63b8de9bbedf36a608e769b8b9c948406f9ae99b0655929b251"
+    },
+    {
+      "path": "BOOT/.contentFlavour",
+      "size": 8,
+      "sha256": "5546c5dcc63bda3b1a8a4a732c69fd6fa645cb2b31b16f18e62453318104f3b7"
+    },
+    {
+      "path": "BOOT/.contentVisibility",
+      "size": 8,
+      "sha256": "75081b593d15cf6e631971bc6768723f593b88b172477e40ae7d363e4829816d"
+    },
+    {
+      "path": "BOOT/BOOTx64.efi",
+      "size": 24576,
+      "sha256": "2a42ac7ab4fdfd8f4e7e3276c092a8a338afa570fb7ba089d362340e714e56ce"
+    },
+    {
+      "path": "OC/.contentFlavour",
+      "size": 8,
+      "sha256": "5546c5dcc63bda3b1a8a4a732c69fd6fa645cb2b31b16f18e62453318104f3b7"
+    },
+    {
+      "path": "OC/.DS_Store",
+      "size": 10244,
+      "sha256": "0eec649cc2af3f54d26b08a03a835f216a2faf67da2055d0f17a3d50b45f948e"
+    },
+    {
+      "path": "OC/ACPI/.DS_Store",
+      "size": 6148,
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+    },
+    {
+      "path": "OC/ACPI/MaLd0n.aml",
+      "size": 1629,
+      "sha256": "6a1f12b30b25d6d624a129f1f353a90f70f77fc8e6c681e332d0713ac4b15878"
+    },
+    {
+      "path": "OC/config.plist",
+      "size": 29570,
+      "sha256": "6574325695fb2398ad33c8226b7c41bacf5de7fff03c050926bc43046b8e4975"
+    },
+    {
+      "path": "OC/Drivers/.DS_Store",
+      "size": 6148,
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+    },
+    {
+      "path": "OC/Drivers/HfsPlus.efi",
+      "size": 37892,
+      "sha256": "a55b5fff36578864ba6792c4c6369c71f6f35b61dd5a853ddf8583cd36c31d8f"
+    },
+    {
+      "path": "OC/Drivers/OpenCanopy.efi",
+      "size": 114688,
+      "sha256": "ba6b3b5a4f1d52df4f46b3a2279ab491b99ed9345d9a3e364275d55b01fcbed2"
+    },
+    {
+      "path": "OC/Drivers/OpenRuntime.efi",
+      "size": 24576,
+      "sha256": "0c6425eac2d1dffd8a9ae57c8bc81edf803b67e75ff494c2705aad2d433e6324"
+    },
+    {
+      "path": "OC/Drivers/ResetNvramEntry.efi",
+      "size": 45056,
+      "sha256": "af1c6185dac86e9bbcd00f0cfd7946a27343c6fd049dc511f86d97e9c84a1109"
+    },
+    {
+      "path": "OC/Kexts/.DS_Store",
+      "size": 12292,
+      "sha256": "177f995c1dd77dae5d939a5a604fd4c8cabbb78c1c16dd5ed4d7407725dd8b14"
+    },
+    {
+      "path": "OC/Kexts/AppleALC.kext/Contents/Info.plist",
+      "size": 429350,
+      "sha256": "9a59d838b75e2d16043589df821b0c32405f9dd53efd03223cd5853d492f6fd4"
+    },
+    {
+      "path": "OC/Kexts/AppleALC.kext/Contents/MacOS/AppleALC",
+      "size": 1868544,
+      "sha256": "cede73c09da67330820299effed0e5098399e50be3653fe2ebd5f1f3b0ee237e"
+    },
+    {
+      "path": "OC/Kexts/BrightnessKeys.kext/Contents/Info.plist",
+      "size": 2248,
+      "sha256": "f055eb6f0caff1a8c4ccbdccf337a0a177b751050fb0ad4dda3d750d0b1f6d62"
+    },
+    {
+      "path": "OC/Kexts/BrightnessKeys.kext/Contents/MacOS/BrightnessKeys",
+      "size": 37040,
+      "sha256": "f47210181030a6005ccb17c125dbe81b359c2c9fd74c12b99b860b8b5f44a72a"
+    },
+    {
+      "path": "OC/Kexts/ECEnabler.kext/Contents/Info.plist",
+      "size": 2213,
+      "sha256": "88c3779139c880b0621d886eb46ad35200b5db50cd250bd70ab9b0c51a5d0586"
+    },
+    {
+      "path": "OC/Kexts/ECEnabler.kext/Contents/MacOS/ECEnabler",
+      "size": 29992,
+      "sha256": "9ee3c3ea59b95c248d1e7425afe3fe1beaaa666274516e562397932b4bfe43f0"
+    },
+    {
+      "path": "OC/Kexts/IntelMausi.kext/Contents/Info.plist",
+      "size": 3590,
+      "sha256": "d68bb26162951469f34b98992e2aa2a6e094b297b45fd041a4fd9906cf60b6dd"
+    },
+    {
+      "path": "OC/Kexts/IntelMausi.kext/Contents/MacOS/IntelMausi",
+      "size": 173384,
+      "sha256": "37adad050b300c000a6be0c1ce1ccc9bbba69b64aca05b703116575e4227518e"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Info.plist",
+      "size": 2743,
+      "sha256": "ad31d9687d2214bcca1eafc5f1b54ccd2248da6cf458abd88dea3e7084189e6f"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/MacOS/Lilu",
+      "size": 526984,
+      "sha256": "b99b2ea1996563f51b3682513911aee09086d234c44df7e52052c2f535bc4a75"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/arm.h",
+      "size": 17399,
+      "sha256": "c5f8f576325a4693433a8553f0cf60da7e184fdc3cf4d69565b8f6da6a266290"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/arm64.h",
+      "size": 28133,
+      "sha256": "ea5125a4d828414198689d96bfacbaedd781d105d3c9121e1c1313ada9240ab8"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/capstone.h",
+      "size": 25032,
+      "sha256": "f26d73232fdda42951c29bda223668fa7909ded7ae641bec6645af77194fe340"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/mips.h",
+      "size": 15954,
+      "sha256": "6c36467a1425085a04ce68fbf6dac36c66523a5f47ebb78dd34c7975517d2548"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/platform.h",
+      "size": 3212,
+      "sha256": "dfa36d15d3ab16c2c3e7760c9c05974b724161ad77bf4c59a673b95cafc7ed68"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/ppc.h",
+      "size": 21914,
+      "sha256": "ecd2185d16bba8e8bf273e0b27b89b55c2716e0ee809a24aa5f32ca9138892dd"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/sparc.h",
+      "size": 11128,
+      "sha256": "60abc023878586ef923a79461f48dfc0622ac016d5e216f2be27aab46eea72ce"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/systemz.h",
+      "size": 14238,
+      "sha256": "951a1e4c64ce2ff0f4d88d698c715ca0e84426d19c405be6d89129aaab3071eb"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/x86.h",
+      "size": 33928,
+      "sha256": "85744ad3f5e752e8e0cd970e9a4f8db7293560e3e22717a29bb4ad017a0b1dc7"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/capstone/xcore.h",
+      "size": 4814,
+      "sha256": "9fd8224a36744e62418af5a4868b05d1ae693741a7e15e2f0e018e56ad57b734"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/hde32.h",
+      "size": 2143,
+      "sha256": "d0dbf2065ab9d864697afb3603586ba047ae00461fd5f5150aec419c1dd54f6e"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/hde64.h",
+      "size": 2339,
+      "sha256": "109319ff7ab6b135708fb4ff7d20a7cef4eb30cd4c2048cf8090caaadb53bb1a"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_api.hpp",
+      "size": 12276,
+      "sha256": "68704ec79a8829981634b543f08f86bec3c5a3d91fdb4c11318c2fcaeb827be2"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_compat.hpp",
+      "size": 1030,
+      "sha256": "87e70a3912ae13187b48307829aa42455d7fbb8ab00c9bdac46706998e0b81b7"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_compression.hpp",
+      "size": 2553,
+      "sha256": "b1f0e145910d81a9e822f6242e2a0efbabe2c22aa28f01a69162810087174558"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_config.hpp",
+      "size": 634,
+      "sha256": "e984014182ba3170d7906d8775d09fd522d87de89dcf01bc7d34fc53e0e23f00"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_cpu.hpp",
+      "size": 15972,
+      "sha256": "8e7df4f1bf701286bf1d6959c1b6ecdce29e59477a4eaf845de5aae2e6a3e078"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_crypto.hpp",
+      "size": 2504,
+      "sha256": "a99b82462d453eef39a2010017045c4182217e7196a577674c9aaa375eb700c0"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_devinfo.hpp",
+      "size": 12933,
+      "sha256": "7208b99588824e149182dba8af9a5e076937046be22d74791eea0b3b13ad8d64"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_disasm.hpp",
+      "size": 5487,
+      "sha256": "6f86eaa09bb848d711a12b57d141e2047730634b5ae2c721b58ea620daf5ad65"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_efi.hpp",
+      "size": 2322,
+      "sha256": "980566fbe0f8f2e21703511c9672bf8345a739033cfa1dbf6de1b0d87e44086d"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_file.hpp",
+      "size": 2285,
+      "sha256": "39e8eee93410b0360ad56a442b7100b4bbf0bfeac3a33c019ddb2b9e77433233"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_iokit.hpp",
+      "size": 10227,
+      "sha256": "c54358d4c0584a812f864898fb90582c1485ceb95bd5ed408aaf8423c8717b52"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_mach.hpp",
+      "size": 11152,
+      "sha256": "3a320f081953594cce85307e24ee1e246679993266ad5eda2598140f36a5ad29"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_nvram.hpp",
+      "size": 5866,
+      "sha256": "925aa4d669ecc2647fb81d34b3666780a6b1e19c72541c5272f86b59f2da36de"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_patcher.hpp",
+      "size": 28431,
+      "sha256": "27461a4f6b2ec7f37205d23e15f25fc2581fd5835694615dd01ed0829a3f4ce1"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_policy.hpp",
+      "size": 1401,
+      "sha256": "3b436d7ab9b1c3de72a26a27205370933a6bd26cc69010b7dc76c30e694a9c96"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_rtc.hpp",
+      "size": 6565,
+      "sha256": "f3db7a2272cb5ccc90a0ff20ed7215fef715bca16e4504d5421630a003632dfb"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_time.hpp",
+      "size": 2707,
+      "sha256": "4b5ebfb2ac896dfd62182c84800bc9e58b8d2b558d51994eb2f967b594303f1f"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_user.hpp",
+      "size": 16784,
+      "sha256": "3b46cba8b6cf988dce98d09672d011c82e6716b03ae67fe4aa2b0ceff9564b5c"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_util.hpp",
+      "size": 28992,
+      "sha256": "fba7159efed51076004d65b98972fb032a20ac056aece74b5e0cab13e37cf39d"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/kern_version.hpp",
+      "size": 1917,
+      "sha256": "d24303fe6ecd4a13c1acddfe7dbc2359110fb9437c59fbbdff3bd4cc071a052b"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Headers/plugin_start.hpp",
+      "size": 1644,
+      "sha256": "9613e8a95fc8340a128b2f6248c423e2b63ac8bc4935918800156b76aa8b78bf"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Library/plugin_start.cpp",
+      "size": 2958,
+      "sha256": "9ebc54138b05bebc86d78479209f3a6fdafedeb5b732be190cc449b6b82e6ebf"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Library/wrappers/build.tool",
+      "size": 2116,
+      "sha256": "23091a95cfebddd1412d4291f43731c468f6266bb86ffaad0ff691807c81524f"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Library/wrappers/entry32.S",
+      "size": 709,
+      "sha256": "dcd9d71118c5a7fc245f881c40b8805120a6853e971db662af0ba01b12af5c47"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Library/wrappers/entry64.S",
+      "size": 696,
+      "sha256": "dd5bba4db12fb13e78b3934209a52005f71a23d20a05a2b5ad336bc70898f457"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Resources/Library/wrappers/wrappers.inc",
+      "size": 1239,
+      "sha256": "152abd67ea6221731417596b4f8294e264b79952796bc031a24a190b75a46410"
+    },
+    {
+      "path": "OC/Kexts/NVMeFix.kext/Contents/Info.plist",
+      "size": 2370,
+      "sha256": "497be1345c277df6cd131715e39c12c834ad22237b94a82d50b2039e10549d67"
+    },
+    {
+      "path": "OC/Kexts/NVMeFix.kext/Contents/MacOS/NVMeFix",
+      "size": 51312,
+      "sha256": "d32c743220011f162ac104cdf73b1bce71cca77459a54553e461b89b9837a4d6"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/Info.plist",
+      "size": 2658,
+      "sha256": "157e7f138679eb4ee251b343069c5a6b0bdc4884a3dcaa9ab3df52e1f5c65015"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/MacOS/RealtekRTL8100",
+      "size": 152096,
+      "sha256": "84188ae09bee2bf1a90d8a60353d595972a20fdb05830df6b048eaf05f519716"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/Resources/en.lproj/InfoPlist.strings",
+      "size": 92,
+      "sha256": "39cf2ee07b7b333e7c179d0bf4d798a5b72af6a4e584f51e642703bbfa4fc828"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/Resources/gpl.txt",
+      "size": 18010,
+      "sha256": "b6babac7d1a5ba50e2896fe989ee2f8f83823909bee8a010a4ca0ff76a316501"
+    },
+    {
+      "path": "OC/Kexts/RestrictEvents.kext/Contents/_CodeSignature/CodeResources",
+      "size": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/RestrictEvents.kext/Contents/Info.plist",
+      "size": 5823,
+      "sha256": "b54d03226e167056264f627e5fc58452ebfa1549f21356eec48e1516ed808484"
+    },
+    {
+      "path": "OC/Kexts/RestrictEvents.kext/Contents/MacOS/RestrictEvents",
+      "size": 52848,
+      "sha256": "8a244c696234c4ae1dec7c318664c57b685f9d2501e8bb6649ec805b21e9fa3a"
+    },
+    {
+      "path": "OC/Kexts/SMCBatteryManager.kext/Contents/Info.plist",
+      "size": 2925,
+      "sha256": "b7d7a2a2a11e0f85a04eaba5b759c918a97810f4759fa288de5ec738c7e900b3"
+    },
+    {
+      "path": "OC/Kexts/SMCBatteryManager.kext/Contents/MacOS/SMCBatteryManager",
+      "size": 209440,
+      "sha256": "3a68c8ae271d27aac69e7728c5e1bad5630751a3396c278307d5a92a66e50f80"
+    },
+    {
+      "path": "OC/Kexts/SMCBatteryManager.kext/Contents/Resources/SSDT-BATC.dsl",
+      "size": 18419,
+      "sha256": "e66bbd57e5c6ef0ddbc3a6e51f68fe875d84709b73d4772e1c193269f2a89e4b"
+    },
+    {
+      "path": "OC/Kexts/SMCLightSensor.kext/Contents/Info.plist",
+      "size": 2467,
+      "sha256": "38c1db7362d3d3a2221dbeedfdd2dd296421f6e7dcd5be462dec13c490979bed"
+    },
+    {
+      "path": "OC/Kexts/SMCLightSensor.kext/Contents/MacOS/SMCLightSensor",
+      "size": 34432,
+      "sha256": "03424377da9f56f11850da5fea2f42b6cc55345a67cf55702e895442627f2d47"
+    },
+    {
+      "path": "OC/Kexts/SMCProcessor.kext/Contents/Info.plist",
+      "size": 2738,
+      "sha256": "797bae2a2cd49d71179dab265a1f92b642f73a881bf80d0f5b6c6de21de15a51"
+    },
+    {
+      "path": "OC/Kexts/SMCProcessor.kext/Contents/MacOS/SMCProcessor",
+      "size": 45064,
+      "sha256": "9f744ec4b1c6a01df5a61fcd5e085045c9426158650bb9f5ff51412c7a6bc6e0"
+    },
+    {
+      "path": "OC/Kexts/USBInjectAll.kext/Contents/_CodeSignature/CodeResources",
+      "size": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/USBInjectAll.kext/Contents/Info.plist",
+      "size": 301743,
+      "sha256": "854791c62dd2aa664741fa1448f8596c23481f15b04ac2cb64f86ad001cf7ef7"
+    },
+    {
+      "path": "OC/Kexts/USBInjectAll.kext/Contents/MacOS/USBInjectAll",
+      "size": 204944,
+      "sha256": "3236cb6db7fab6fecee963a39f11ffdec26ecb2e67414d03a3b5cea41bd8a07d"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Info.plist",
+      "size": 8652,
+      "sha256": "2edc12cf9569dde204fb45087f5e9877b143d3b2180ec0d4dc32dab2da0a7f8b"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/MacOS/VirtualSMC",
+      "size": 245820,
+      "sha256": "231d735f3b2208398f0726fac6245149601af7d7cda8870e5b9e3f77f819792c"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Resources/VirtualSMCSDK/AppleSmc.h",
+      "size": 15650,
+      "sha256": "c0493d157cdd000851a5c511327bd27e65036f0947a81c5b10e874b1901af199"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Resources/VirtualSMCSDK/AppleSmcBridge.hpp",
+      "size": 701,
+      "sha256": "f4ee65d0d8c10eba924366deec2ad35bb1902c2c75e222c6ef11b911d019574e"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Resources/VirtualSMCSDK/kern_keyvalue.hpp",
+      "size": 2890,
+      "sha256": "a600e29456f415b0d34de6b60a65253795ec83133107b54fe1a49631a08a0237"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Resources/VirtualSMCSDK/kern_smcinfo.hpp",
+      "size": 5102,
+      "sha256": "fae13b040ea92fccb9763e8b282fc830c2009e4e64ab107316da9e0ef2299bfb"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Resources/VirtualSMCSDK/kern_value.hpp",
+      "size": 3574,
+      "sha256": "5e6fc1f3daf377ca7d631a736ac17d1dd9f12a31ae09e981f2cd0b798292056a"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Resources/VirtualSMCSDK/kern_vsmcapi.hpp",
+      "size": 12648,
+      "sha256": "84f6cf176db2820dfad9ce2c6ebe8c01ca7c6ff6beb8b378e7287170cf3d8c12"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/_CodeSignature/CodeResources",
+      "size": 3059,
+      "sha256": "f00cfbb203f4155483b7c5ea214e95d2c542058b334175723340f3d6d06fa2d9"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/Info.plist",
+      "size": 19049,
+      "sha256": "34bbf587874a13f63d98ab6c1999838dfa3b84105daba01469c800136441a217"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/MacOS/VoodooI2C",
+      "size": 175520,
+      "sha256": "f1766bb1169e76eb5c402bf48a65369ffc14c87248e9e68e7d5abff45f6f2f9a"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/_CodeSignature/CodeResources",
+      "size": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/Info.plist",
+      "size": 4219,
+      "sha256": "d1c7ba4402b9200917d9c18290b6d04b90b5afc1a6f00b8a9be00916a0d27893"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/MacOS/VoodooGPIO",
+      "size": 303888,
+      "sha256": "60c8c93fea9f7859eded92f6675043f253763144bb1b436d6a630b83485a60a1"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/_CodeSignature/CodeResources",
+      "size": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/Info.plist",
+      "size": 2392,
+      "sha256": "2cb3ea0411d3c49b6a868f5d4d76bdc238b62340bc3015c7dbab9364776bd2ff"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/MacOS/VoodooI2CServices",
+      "size": 62784,
+      "sha256": "e9e5ee1d361ff10085326aabfb1ea5de6ceb1c06e8ff9e89f6a43902227de51f"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2CHID.kext/Contents/_CodeSignature/CodeResources",
+      "size": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2CHID.kext/Contents/Info.plist",
+      "size": 11141,
+      "sha256": "a968984eaeb0caf782c388baf4a05445e8da9214792e72f32859a8b3468cccf4"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2CHID.kext/Contents/MacOS/VoodooI2CHID",
+      "size": 235056,
+      "sha256": "f898fe2db2068a84dd34874fa6209cede55cde41951508ef26ee9d8e5bdccb10"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/Info.plist",
+      "size": 4329,
+      "sha256": "efd52cefc719c8b02cd79586373f6ff9ddb5ba3c6d868badb7bdc5661a7eedae"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller",
+      "size": 102560,
+      "sha256": "544a07108cc373c888ba74e3eae911317194b4f546855b71e5464bc1e2eadddf"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/_CodeSignature/CodeResources",
+      "size": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Info.plist",
+      "size": 2174,
+      "sha256": "4b613689d908142e19554ffd6a1524dc029ba4e0f3cc2b6a0e03d9d82777264d"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/MacOS/VoodooInput",
+      "size": 108352,
+      "sha256": "73e7b4ff9133601ee01312fb4e5bd0f62b10bcbf7de477fd68929ca3cd9320ab"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/MultitouchHelpers.h",
+      "size": 1203,
+      "sha256": "49f6fc0f8a03d14dde53fb8dded256ce295baa79ffc7debb71869c2e5d266d97"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputEvent.h",
+      "size": 871,
+      "sha256": "2d2acd93bbca95a86d8f8bc143f75427d6b750f32914cf980fea321177d64f3d"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputMessages.h",
+      "size": 1852,
+      "sha256": "187f621da1056630a90095b9ed1616ec51acfb20e717ec4cb8d1a0ffe8d09e75"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputTransducer.h",
+      "size": 1049,
+      "sha256": "c92157ec545ac660bb4472bd13158dd1676f08ab81eb19c8461198d4cff39739"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist",
+      "size": 20332,
+      "sha256": "a6be92bf43672c41ba33e5ccc88a1bea7500fc4a9b90f610373973c42457367b"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard",
+      "size": 50344,
+      "sha256": "a1e4903278b2028da9fea8feeb911026fb029ed8164d947bd7481245ae86193b"
+    },
+    {
+      "path": "OC/Kexts/WhateverGreen.kext/Contents/Info.plist",
+      "size": 3020,
+      "sha256": "24b9e95aa46173ef274e715c577406c107afed6f17846ea4e0813eba6eac418a"
+    },
+    {
+      "path": "OC/Kexts/WhateverGreen.kext/Contents/MacOS/WhateverGreen",
+      "size": 531784,
+      "sha256": "c3483718a0bc773d696ce818ef010c4f445d7ad1ccf1170dfdb2a5f8c6b69682"
+    },
+    {
+      "path": "OC/Kexts/XHCI-unsupported.kext/Contents/Info.plist",
+      "size": 5230,
+      "sha256": "0ddfc1c8c8d160e35d885409e5c5f1073ef5f4485c40cbe95c4d9a5751507d66"
+    },
+    {
+      "path": "OC/OpenCore.efi",
+      "size": 626688,
+      "sha256": "545a32a439c94d7c19e996e74fad9dfa327bf3845e98ce05da96d3d46349f912"
+    },
+    {
+      "path": "OC/Resources/.DS_Store",
+      "size": 8196,
+      "sha256": "2ecb970c378d790fe05a1779615cbf4bd6789849f0307844ca3aa519a233fb4d"
+    },
+    {
+      "path": "OC/Resources/Font/Font_1x.bin",
+      "size": 1985,
+      "sha256": "5c25792248d6d2d6e538ab795d05cdc96cb871ca28fe38fa040ff98fec624e95"
+    },
+    {
+      "path": "OC/Resources/Font/Font_1x.png",
+      "size": 3426,
+      "sha256": "702a639bdef7cf93d6145d08af7a8092c4707c08cfba3769253f1c0bb19b1b94"
+    },
+    {
+      "path": "OC/Resources/Font/Font_2x.bin",
+      "size": 1988,
+      "sha256": "b36ad2b2dcdde146759452d2514b7f7800b9c6898fa284566965d69f611bb188"
+    },
+    {
+      "path": "OC/Resources/Font/Font_2x.png",
+      "size": 7424,
+      "sha256": "4fb45cd7c411a0fa2fca0ea4c1fc2a0130f8af0bcdc71274ec80fbb19f14ac4e"
+    },
+    {
+      "path": "OC/Resources/Font/Terminus.hex",
+      "size": 51528,
+      "sha256": "b735876e698c5bf1ee3445efafd87d834b5fb68e40788f477bcbd8bc7ce0086d"
+    },
+    {
+      "path": "OC/Resources/Font/TerminusCore.hex",
+      "size": 51528,
+      "sha256": "564b9c0dabfb1f70f557b510161b489a287f75c8e5787351329347b5448a484b"
+    },
+    {
+      "path": "OC/Resources/Image/.DS_Store",
+      "size": 6148,
+      "sha256": "7e8f2a79dca23f0ac78fbce30f1693b987dee0fd3ffa0bbb99c21360bdfc0768"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/.DS_Store",
+      "size": 6148,
+      "sha256": "d12285635b398508107cfeb9a6a2466e9c91b307bc8f5cc8166a73a1a2395fe8"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Alma.icns",
+      "size": 10812,
+      "sha256": "c8900449c9fd9a0774a48020bb958428e432ae99c29a41197769dba8a6df9cc0"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Alpine.icns",
+      "size": 9106,
+      "sha256": "e213e0cba9e50274ed0108db9633a3b71b72e1a13130bcbcd0460d8fcd5fc25a"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Antix.icns",
+      "size": 8337,
+      "sha256": "658fcb5f1fcd04101b7e8735d59564be5799fdb178a83bb711aee5a366e26714"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple.icns",
+      "size": 10594,
+      "sha256": "56020e698add018d6f800d11d161ebde7794bbaef6ee48a9b087679993de460f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_10.icns",
+      "size": 13342,
+      "sha256": "11f06ea58cf436c695d72fcb4994ad3d099f5e66a510403b8c86a06b5e5200b9"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_11.icns",
+      "size": 13145,
+      "sha256": "959804e96ef7082d228f59ad4483025b3a21e84ffba8f4770c94f9e5accbcea4"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_12.icns",
+      "size": 13247,
+      "sha256": "21f8ea14990713a91aed82d1c198a83380ad1ea8401f1b5908c9910b109ba4d5"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_13.icns",
+      "size": 13473,
+      "sha256": "6cfae2afe6837ba6be5ebe0c8b24a1dde2fa71f53c91ebbb5b64f6c7f46771f9"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_14.icns",
+      "size": 11483,
+      "sha256": "ec27ca7e39c1358c842e12c0fab339e38f872e7cfe5d983b0e79a897405ce0dd"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_15.icns",
+      "size": 11996,
+      "sha256": "8389e1b24014dd6c56e8b51b35a03b4906a8787e9315c9f794a223f77bba6b82"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_4.icns",
+      "size": 11731,
+      "sha256": "9030de858a098f98d67bd70ca577297a5fc76c18192c3fd62489dbe71ce34f19"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_5.icns",
+      "size": 12579,
+      "sha256": "99fbab8111b8e5c5a975c3fd94b6cfe0401e4ee5f9340452268e6e036354d11a"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_6.icns",
+      "size": 13184,
+      "sha256": "b293f43c2cd44e4c4937aa5b13a0a566f93e05a4b945a7183ea658d0e92048f2"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_7.icns",
+      "size": 13089,
+      "sha256": "dc35a2659f565a8642cdf96409672ac2ffe07c7b5b60f47fddf9c94113ee2039"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_8.icns",
+      "size": 12050,
+      "sha256": "62328e5952ced578a4d958d99c2ecac2b57b7ab94c85281282d875f513f0c4f0"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple10_9.icns",
+      "size": 12203,
+      "sha256": "8def2212848f45bb26e98ba9636e8a3132e3128f7b8767fecd183480d7173f74"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple11.icns",
+      "size": 12729,
+      "sha256": "b1d4fb14ad03c6bc1146370659565431f1632fba9c0ee98ded93858a1599c62f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple11_Dark.icns",
+      "size": 12577,
+      "sha256": "841d3cdf208de31b94baae1c481f15be7c0cc1eae37794f7f67ae7e3b3a32bd9"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple12.icns",
+      "size": 12589,
+      "sha256": "78c898394ac37425c5570725d96134f13c0f5668f8c2e2de6b76e325a6f710e9"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple12_Dark.icns",
+      "size": 11999,
+      "sha256": "0818ad335c66e45ed53c0de42e94776de70fa3c0e0df864824e3a12189845985"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple13.icns",
+      "size": 12816,
+      "sha256": "d6ad096bc886f7973eda507720fdffff7e268db52e92a99ba77ac2f3ad954d2e"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple13_Dark.icns",
+      "size": 12465,
+      "sha256": "6faba7074cc4a32a28c2275d078c78b0eb3da97f1f23053f2ec113030a39d061"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple14.icns",
+      "size": 11684,
+      "sha256": "251a86696049a55e8444f0053ce8a044a8f38819c555eb94be20531458981707"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple14_Dark.icns",
+      "size": 11684,
+      "sha256": "251a86696049a55e8444f0053ce8a044a8f38819c555eb94be20531458981707"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple15.icns",
+      "size": 13362,
+      "sha256": "ef238b7d4c3e6b231da1f530fd454dc53a75695243cccb058887ccab8723a5a0"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple15_Dark.icns",
+      "size": 12788,
+      "sha256": "99a207f8b2db0954d48a904d8c67bd60bb7f3612ab3e7042341f87968841ab60"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple26.icns",
+      "size": 13084,
+      "sha256": "d176245ed2eca856cedb2b05cc2eb48a92f595b0d3083a29b3dbef97c4872010"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Apple26_Dark.icns",
+      "size": 12306,
+      "sha256": "468f3d468830d4118e5f069187428bb9ba09ae71a7524b8ac240dc4529be79d8"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv.icns",
+      "size": 11698,
+      "sha256": "c012ab5a48aef95f3c302997e09abefacb952dfb942c714117ab103d0f557b54"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_10.icns",
+      "size": 14603,
+      "sha256": "a51994d43a6535da557eb2e5f5f4769ca7b4c1e06ec3cddee2cb4e68a95304af"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_11.icns",
+      "size": 13929,
+      "sha256": "ff4673ec6a8a977bd002967fdb8e2b991cde6c58838907a0734d889a58102491"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_12.icns",
+      "size": 14519,
+      "sha256": "2ed33669902514e113b795d1d1bd0434ff85781239f81185e948f52d8c769080"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_13.icns",
+      "size": 14501,
+      "sha256": "abaeac308c01d018dce7d276c98d10882c173da8cbe9b6a01d1e8637c183ea09"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_14.icns",
+      "size": 12866,
+      "sha256": "fa54b01cbe789338ec500137e3764715df24eca8ba1d541defbd1eb348655f9b"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_15.icns",
+      "size": 13402,
+      "sha256": "4f1cce16ff8a229fcffd2aa36ea1b894fc6b549618258582c87e50318c8cb96c"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_7.icns",
+      "size": 14365,
+      "sha256": "3adab11abd4742734f07b27689abd4fc049d43d3d4e701c726fe370941b4c0b7"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_8.icns",
+      "size": 13319,
+      "sha256": "78aa8de29d3340772e1b7a6a55ad7c98dba969642b8414a76d2e2e69f769045f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv10_9.icns",
+      "size": 13171,
+      "sha256": "0d4fbf6a45c7d0f9569ef97eeb6b77db22e2cb1dd3bac4b48ff13442b2aa3a5a"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv11.icns",
+      "size": 14597,
+      "sha256": "12288eeebd77ac81d1624145d47e0786b264b95ce062b5b77eb82a8c74695190"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv11_Dark.icns",
+      "size": 13808,
+      "sha256": "f230613c8773affae753f2182bcec2209a320e6559c7994166d7f119be270d97"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv12.icns",
+      "size": 13600,
+      "sha256": "8d89520f447e4877eddd4e2a7e0159f2203cf410d43db9ba7cabe226ecaec301"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv12_Dark.icns",
+      "size": 13208,
+      "sha256": "eddf73a3cb8dc0b930fb330461e3e5c2a2091d1aacc1233124ba49f8af4af157"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv13.icns",
+      "size": 14049,
+      "sha256": "048676f1ca382a50b6b34b74ef5c91221091690b444de732fe2c010eb7dca096"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv13_Dark.icns",
+      "size": 14052,
+      "sha256": "e34e8540ce27f0b1201e93272ce6c15eef1c58f543c7cf02f93069fe006d0aba"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv14.icns",
+      "size": 14216,
+      "sha256": "277723f3dce2b04d2e6245aa44a88f8ffe37fee787e6359d8d72d66194270fb0"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv14_Dark.icns",
+      "size": 13301,
+      "sha256": "cce2a204eb58fb4022ecdffaf837836b6a4ce9834b8b488cf2d933891d57d97f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv15.icns",
+      "size": 14313,
+      "sha256": "3ab2961c56e89b7fb5f8d8474f129f420faff9e9874286169d5934b0bba75700"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv15_Dark.icns",
+      "size": 14159,
+      "sha256": "1b3f25f46f916eefdd500c2fcf302fc0a8bab89ab3f6083b52c860f28b867d5d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv26.icns",
+      "size": 14622,
+      "sha256": "8a6028498f015fcf7057891080b47967fe6235bb71ac504fd0c825dcc885d83e"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleRecv26_Dark.icns",
+      "size": 13477,
+      "sha256": "b07611b67c4b67cfc0060a8db1afa604427bf81462a2a845992ca82b34e80d5b"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/AppleTM.icns",
+      "size": 11698,
+      "sha256": "c012ab5a48aef95f3c302997e09abefacb952dfb942c714117ab103d0f557b54"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Arch.icns",
+      "size": 10348,
+      "sha256": "bc4ecd08bc1efbc1efa958cf2ce291562723b2d0bba711c434a93886d5f50c17"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Artix.icns",
+      "size": 9558,
+      "sha256": "730a96ecf9fd35d697a4cbaff4508818467de4f9f01d07335b1720a0c9421b68"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Bodhi.icns",
+      "size": 9344,
+      "sha256": "83dbd87ad1de46a0e3a24da8ab6dce8004a85315a44395bec2f090a14d7b2535"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Bootloader.icns",
+      "size": 9679,
+      "sha256": "fecea9cbf1abfe0a2a953d6666808921ffd119563bd05175334e503baa26e8d5"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/BtnFocus.icns",
+      "size": 840,
+      "sha256": "8f2168b0d96e7f4e0e15eb8143161b99fab773be8d07834329824e135bc174af"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Bunsenlabs.icns",
+      "size": 8883,
+      "sha256": "3b2ed66920b7648cec6c5e88b082f5175b5e340b13ca5c4a0edbe77967850790"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/CentOS.icns",
+      "size": 10126,
+      "sha256": "9766c1b842fe5c5bae5ae7c477662349cc02c95ef88d5f7afd098cf728fc9271"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Clear.icns",
+      "size": 11094,
+      "sha256": "11d90c32e3f40ec578ae0947171710acf6f7161068a3ac8320f2d1688fcf0896"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Cursor.icns",
+      "size": 978,
+      "sha256": "89452751c00d6da4eb9c61a7c0d7f6e355d32c0f57cf6a17b7a0502d7cb004be"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Debian.icns",
+      "size": 9322,
+      "sha256": "62ec637edcbe369b96ecd368d751a83fd3262a5357bbe41ed8b4852c94b22e2b"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Deepin.icns",
+      "size": 10206,
+      "sha256": "40a929bd78af6e229d523a5f9e7d953e6b8d5c4e7e77c8a56140e832a8e7ae75"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Dot.icns",
+      "size": 567,
+      "sha256": "05d3f76a86de2faedbd6d29f1ed8fdce896ae2a46236a7fd4ff3356b2e55a517"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Elementary.icns",
+      "size": 9602,
+      "sha256": "66077e429ebdb2e6bed70c710895221d9675f7cdea19ac2d8239047a2a2cdb2f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Endeavour.icns",
+      "size": 9677,
+      "sha256": "6e5404d5a6d3590178ad8c19fa8f6f6824fa8e916319c440482360af2325987d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Endless.icns",
+      "size": 9366,
+      "sha256": "cb4c5dda13fb52a1475a095e92cf9bdf992da69ff846c006e93bc59fb2ab6cef"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Enter.icns",
+      "size": 960,
+      "sha256": "fc2d18ab362a96073aff747cb8fa325c9368312edf6ee001c9d3a2a5cec2a383"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_10.icns",
+      "size": 13836,
+      "sha256": "e41f5b46f3ca88dc79e8564d0e1c9eb50723acf5a8d7b552355f0e3245491b68"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_11.icns",
+      "size": 13257,
+      "sha256": "3d4728d15cfd65ce6a493548b0c8b8a678b2b22694254a51063ac582705718e6"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_12.icns",
+      "size": 13777,
+      "sha256": "fa6d13f3a14d2ae11713b03e08cba2396943176b8c6eaaca0d87cff7f0d8969f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_13.icns",
+      "size": 13928,
+      "sha256": "b2469c0c2cdcb2dccad035abe211ad20fef06a080c9d93321166bc772a683722"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_14.icns",
+      "size": 11964,
+      "sha256": "1b5c824461c37bc49acb0485f20a33586833df31c3754bcaa6be53b2891f5afe"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_15.icns",
+      "size": 12233,
+      "sha256": "b9207bc43c7da8c832b50e66fdb78d888ec65ed112d7c4e270c828555ba16eca"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_4.icns",
+      "size": 11933,
+      "sha256": "b71e400a28aca6245ee0295fca0c42f6cd52a8cecb203acf93d976a6ca1925de"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_5.icns",
+      "size": 12973,
+      "sha256": "67dd2656e929382fa3ccc313e6fae34f2e4e67ec7aeb6b8f9c847b11096d45c4"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_6.icns",
+      "size": 13610,
+      "sha256": "f2c0fc784ad2c0f1eeece151241e7c078445d7d11a5efeb3cbb26f3e494a8634"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_7.icns",
+      "size": 12934,
+      "sha256": "a52ca412dad65b9acc41ad062265fce5f740e9c5160f49cb264ddadd720bc15d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_8.icns",
+      "size": 12264,
+      "sha256": "d8c2fd1043e20d6e2b76fe30d96041a6b3aa48a02ddc79d4cffc6f7b2a165751"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple10_9.icns",
+      "size": 12365,
+      "sha256": "de176cdb9aba8a67a572c5c6ac8f7872e8b939f25898ef7799434880df52f819"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple11.icns",
+      "size": 13758,
+      "sha256": "de0d5d558447481db4940f9df424c031b7da355a7ee6fa24c72c93a9ae3307f2"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple11_Dark.icns",
+      "size": 12681,
+      "sha256": "615352df35a7e936380b619e024b055dea3f1f0aeb95ca098900c4a0dba1a480"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple12.icns",
+      "size": 12621,
+      "sha256": "f57b4cc7e222602d8c3461736092db3cfe97e5eba6368c1c1d9d309cccf39908"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple12_Dark.icns",
+      "size": 12485,
+      "sha256": "103250483258241c78ca287ba2bc855e1898ad971a7195032299ec7559aee7c0"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple13.icns",
+      "size": 12891,
+      "sha256": "1013adb89c7d59bc479849df032db588c87a91c1e7c46f8bef363cf1f4a05253"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple13_Dark.icns",
+      "size": 12922,
+      "sha256": "6ab95ba2d371053ecfce4d142bb99edb22c668e9edb01cab0217cc58386cee48"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple14.icns",
+      "size": 13538,
+      "sha256": "5d352af489d2eb2ffa683d41840503905ec0d2c77d287bcf4e94ebf4ae02b438"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple14_Dark.icns",
+      "size": 12496,
+      "sha256": "04fd6dca5bd4044b827cc426fd87d154921bdcc90a10ad43e65dbed05eef4a86"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple15.icns",
+      "size": 13383,
+      "sha256": "0e42f4eb52923c4464b39809abeaac7276dfdc6886020618ff0d7b27857e2153"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple15_Dark.icns",
+      "size": 13375,
+      "sha256": "f5630a694cd9ba7ac2d3748beb252dc62e6561e954fe2bc10b095d598508d659"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple26.icns",
+      "size": 13716,
+      "sha256": "6792f06e1283a74bd4eab79650b9311d1f5079fe0f61dab877c6d9c617a25cfe"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtApple26_Dark.icns",
+      "size": 12541,
+      "sha256": "ece79d413cad4a405e264c8caac9b77436aad2a65d31f2f4347669757c529884"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv.icns",
+      "size": 11996,
+      "sha256": "525c5cd3df4b0649851e67891c6c91489ab2b4f17b19fcd7a33d6541d539f101"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_10.icns",
+      "size": 15184,
+      "sha256": "a4de578d997081a31549c92743618ecbc069b0e5cfa80fea932e1299d2d58cae"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_11.icns",
+      "size": 14654,
+      "sha256": "997df16ff9c05aaf2acc1b33e0046a2816bcca7271d90a7d21328b6149365aa1"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_12.icns",
+      "size": 14929,
+      "sha256": "1ad3399f46c85ebf11b61753cbfed5ad533fc5a397e2b35b0b40fbce0fdf8517"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_13.icns",
+      "size": 15088,
+      "sha256": "118f1dacf5cb71b1300f1219d2b719c83f24def0e9a7309a1aa3eedc46bab08d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_14.icns",
+      "size": 13302,
+      "sha256": "1689644e7765668b4efc072ac3867fdede09573beadda94d647ca9902cf1cf31"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_15.icns",
+      "size": 13359,
+      "sha256": "560118d65d9fe757d1fd92f430f8d2b53863a001d05f2ed4d04b45e3821a01c4"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_7.icns",
+      "size": 14700,
+      "sha256": "1de07cef61411f877e7e3920c5571948d9b90d3460e6a04b468819b503318d4a"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_8.icns",
+      "size": 13948,
+      "sha256": "733fd4eff72d72ddb7cf8a142037cf5aeb7c340fa166428098e82435754a3ecd"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv10_9.icns",
+      "size": 13508,
+      "sha256": "12c29f172fdbc2d0100480038254f989dbeb6dd2e6074924bcfacef8f9c127e2"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv11.icns",
+      "size": 15011,
+      "sha256": "f9e2dfa94be3539680ea1a266624f3f6c2072bf9d787a79fc1eca2437e0b577a"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv11_Dark.icns",
+      "size": 13969,
+      "sha256": "bccbd6f6e7178b257de84ac12a4f6f96e953c61754225022da38776258c97a5c"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv12.icns",
+      "size": 13799,
+      "sha256": "67998d337aaea869f1cbc77e600abdd3a3eb8eb78513f9ba3da7e1523f432b28"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv12_Dark.icns",
+      "size": 13629,
+      "sha256": "ac1da207815e388ff24451688f61f779e3753e9b176276166c51a6a0edd75b37"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv13.icns",
+      "size": 14170,
+      "sha256": "fb93fdc95e7ac93829df96b7655195af41ee64fa4d83a328a9db874c7b9e0bb2"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv13_Dark.icns",
+      "size": 14410,
+      "sha256": "36fdbe0e021f14e11978257c5c9778f2540e5c9bb62adf9739ed857c0f05ae5b"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv14.icns",
+      "size": 15332,
+      "sha256": "55897a1b9f06e5b3bbfe6bbd65d9e609085989acc9dd281391067ddd6eb05aee"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv14_Dark.icns",
+      "size": 13701,
+      "sha256": "f9e2bae780498510d7f70cab3c004607362379f1600536f303e06b156f44e792"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv15.icns",
+      "size": 14727,
+      "sha256": "1287000c45ed2d85da2e24d659ac1870f3452920408572bb14b8f3a544904616"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv15_Dark.icns",
+      "size": 14908,
+      "sha256": "cf25e38e7de9d745dc8e54c97444ec6b2a696f8080837597a71ca56f6e7c33e6"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv26.icns",
+      "size": 14888,
+      "sha256": "39ab5f3246835e7fde4b00239bf99e00c9f54f48901cdd5e388de08ab8168488"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleRecv26_Dark.icns",
+      "size": 14275,
+      "sha256": "8c1128fbb6e105fa4d7fd1e6aba0f8b1aaeed8375e7e560fc69f0b89d473db03"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtAppleTM.icns",
+      "size": 11996,
+      "sha256": "525c5cd3df4b0649851e67891c6c91489ab2b4f17b19fcd7a33d6541d539f101"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtHardDrive.icns",
+      "size": 10678,
+      "sha256": "73589b75b02a44dfaac7178918828cd4fa31297953073d9d60d7e8086eb89503"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ExtWindows.icns",
+      "size": 9933,
+      "sha256": "17f1824e0d7ea74872985a51cbb9fdf082f9d757942e914ee3609c81d9002703"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Fedora.icns",
+      "size": 10290,
+      "sha256": "6b13d0bfea8fb79d9a1255176a91b0bbb804ad99c961634bcbc8e9448b4f8e07"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Feren.icns",
+      "size": 9314,
+      "sha256": "3eacc7eac68ad22bab2d13961ce8f19e0cd0174b3476529a5bf058211bf6be57"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/FreeBSD.icns",
+      "size": 10389,
+      "sha256": "1db748859f314ef0277705f6b8c3261b912c9a45ee9524dafbcb6f0e92dd89bc"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Garuda.icns",
+      "size": 9657,
+      "sha256": "e8c61f139372e86d1fc1f0c7b03dde18cee2eec9386325a5e730b27bdc23af85"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Gentoo.icns",
+      "size": 10813,
+      "sha256": "321b4ce819034eb74400a510a2b0799e9b27364beb44aaf9d7bea98980bcc28a"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/HardDrive.icns",
+      "size": 10594,
+      "sha256": "56020e698add018d6f800d11d161ebde7794bbaef6ee48a9b087679993de460f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Kali.icns",
+      "size": 8748,
+      "sha256": "fd2d5b4841f6d7e71ef3d029227e5f889a54317b2e2a31c3d0b774309eebc81e"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Kaos.icns",
+      "size": 8978,
+      "sha256": "28dc2687b8c5538febc31277fa536f1209ad96daa6213307caa6adea70b627df"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Knoppix.icns",
+      "size": 9251,
+      "sha256": "a02a3fd6f94fcd05182b322392b19f6a946829808a689689ef9ad7eb4de92146"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Kubuntu.icns",
+      "size": 10108,
+      "sha256": "65551033a6fa8f8375bf1e965e13da834d61f81194b2d554e8739b0a2dd6dc0f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Left.icns",
+      "size": 1294,
+      "sha256": "cdde1b222966c9448ec97b7883fc18881bc59cbbc06fee7a7691d4e212bc9be6"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Linux.icns",
+      "size": 10068,
+      "sha256": "f7ceb395fc259eca091eb4eddba0539cef7eca7b307d50cd67dd56c06789fafc"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Linuxfx_11.icns",
+      "size": 11545,
+      "sha256": "210262a3aa8b048601de326fcaf20225ce5a44783f65a87a784238c5dd40df72"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Lite.icns",
+      "size": 9412,
+      "sha256": "27ecffb017a4fb57a3f10666391bd2ec978ac13ca77b1b487f5d0e99ce78576d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Lock.icns",
+      "size": 8417,
+      "sha256": "fae2b81fee078ebdebdb969059510e882a12c07f6ed165304de8cd38813e0459"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Lubuntu.icns",
+      "size": 10558,
+      "sha256": "e4c7d5d8db8ae7e43e1e1cdd40606984b781ae71eb6a90f85a8ad26d1f45d06f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Mabox.icns",
+      "size": 9679,
+      "sha256": "2afff0e7a3d1f6834b36628bfabdaaeaeb9291ab458b826bae9a3b7070ea475d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Mageia.icns",
+      "size": 8813,
+      "sha256": "1e88625506d635deaeabe9b2f243de31443fe24d957e858d8b7c530c16474ff2"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Mandriva.icns",
+      "size": 9959,
+      "sha256": "23c83a613bad77243c513ef33427dafd5126e265743ea7db6cbc0ea5cc8ba56e"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Manjaro.icns",
+      "size": 8274,
+      "sha256": "5d869fb89bd949decb8ecafcc49add601c1f5e97851d0372e730ad3191084ca8"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Mint.icns",
+      "size": 10216,
+      "sha256": "23edb02c7d2b58318515e51f9ae842e26eb588485074cb09929c22e7f7984912"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/MX.icns",
+      "size": 8702,
+      "sha256": "d55feb8155aa13d02d14af2672c49de36b90a9cac7c5fdece37646389fe22e68"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Netrunner.icns",
+      "size": 8808,
+      "sha256": "bd38aa650aa86f6231336808a4a804d6b8c0c7a32d5943cd882925521073358d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Nixos.icns",
+      "size": 10393,
+      "sha256": "3413e216b74c2b6e5054aef0505c4a875f282c0d3d5ba87e662818b2d37940a3"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Password.icns",
+      "size": 518,
+      "sha256": "b5b6b50eb2a40b5e8882dcd0e93d003eea208b3f99eb2e2117acefc5d5252230"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Phoenix.icns",
+      "size": 11279,
+      "sha256": "93c1b29a2bac176cb5ce85a27898194449b78bf0cac79c1b054d183b8c04599f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Pop.icns",
+      "size": 9624,
+      "sha256": "980ea56feec3998034f5f0c6954e766a4ade2a369ecb582630f65db8f8006785"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Puppy.icns",
+      "size": 10557,
+      "sha256": "c9cfa1da5c11593e60feb45585b7a8763b99f70da88b41f5bf5820bf1029b13c"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Raspios.icns",
+      "size": 9553,
+      "sha256": "770b778a1b739548fb57605dcd87275e23b65aa22c15aae5ee397fe832abe2d0"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ReactOS.icns",
+      "size": 11927,
+      "sha256": "fe2bb2445c48e34a64a939c55df03f7a9db147a07cc7f3b119c0f7b1c9a3254d"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/RedHat.icns",
+      "size": 9889,
+      "sha256": "644c6401f24a9b1e873e7b656f693c5af4fc8f83b596ea7666c477ce53cbbee9"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ResetNVRAM.icns",
+      "size": 9842,
+      "sha256": "a0c9df851039a7da76abfec01842db2180fa45a65649644d9595bcdf92029a03"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Restart.icns",
+      "size": 1548,
+      "sha256": "7c5fed362671facaa2907fe15c6aca3321427afeb7d7c79fa02646d514a3ea17"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Right.icns",
+      "size": 1283,
+      "sha256": "f205599ce633e7461da6aedc0f30a8b9a576461ffbadba5c813bd8207159ec75"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Selected.icns",
+      "size": 311,
+      "sha256": "bb2ad2a4a0a8e7cf485c76ed2d81c0bf3df47213175071b3a03def78c39162cb"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Selector.icns",
+      "size": 1653,
+      "sha256": "64e11d6267f6187b626c8a9e4d23f34e6db11c9c4ee62d0f20517dc3f34448a3"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/SetDefault.icns",
+      "size": 1658,
+      "sha256": "786d3a51c2717a63aff014b9d4261d9ff6ed734bae298fbad6c5aa2922652450"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Shell.icns",
+      "size": 8354,
+      "sha256": "ce1e8381a20f6c17f566c1876975a7593bc08138f3de39eac3ea53a76b3551cf"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ShutDown.icns",
+      "size": 1527,
+      "sha256": "f18351d893b8aa9850dce3c531779d4da5fb0cabd97905467c5285a690951795"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Solus.icns",
+      "size": 9182,
+      "sha256": "062b80aafebc739597523ad3b03f8c8a0a4ece97c8f17a154e7ff1a06a4727cd"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Suse.icns",
+      "size": 9166,
+      "sha256": "81952e704edef22f09484a0ec19d1e874ad93053d0fbf32b8c85c759c8f946d3"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/ToggleSip.icns",
+      "size": 9716,
+      "sha256": "eb9fb4a335ac2db5469ac0f0c5d3ff80e7e9a73b76e5847f85012da0088a9e84"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Tool.icns",
+      "size": 10281,
+      "sha256": "f8f291c9249616f8efecac9e202505de1d0214fb8302edf243b6478463795711"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Ubuntu.icns",
+      "size": 11022,
+      "sha256": "3853fd28b656c2bb65d2752704a511b7d4c2c95011d49accd3501d8278bbe5fa"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Ubuntu_Studio.icns",
+      "size": 9701,
+      "sha256": "5412cd3496e53ba20eeafe63c3d08cdc20b5687104a4159e9b8012ae1d565c9f"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Windows.icns",
+      "size": 9282,
+      "sha256": "38dae42f5beeb9f860edc8f731eb922a7723c9312a8266e9f9406bd9a54be376"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Windows10.icns",
+      "size": 8634,
+      "sha256": "45a34a4657e71bc157289a531490826cc932b644a468ba41c013c1034234fd10"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Windows11.icns",
+      "size": 11545,
+      "sha256": "210262a3aa8b048601de326fcaf20225ce5a44783f65a87a784238c5dd40df72"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Xubuntu.icns",
+      "size": 9207,
+      "sha256": "423892d1768383a89ac9ace92f2da724de4a793ce9ae189bf5add777cccfa9c5"
+    },
+    {
+      "path": "OC/Resources/Image/Acidanthera/GoldenGate/Zorin.icns",
+      "size": 8995,
+      "sha256": "752dd1afb1ef64498bab4b431aec72087b28f1b4e236e682c44554366d95d18c"
+    },
+    {
+      "path": "OC/Resources/Label/Apple.l2x",
+      "size": 1733,
+      "sha256": "6aa42eb95f29e079d9c8cc3d0f7389e86bb2687a22d8b1f998e4cc887b0ff01d"
+    },
+    {
+      "path": "OC/Resources/Label/Apple.lbl",
+      "size": 437,
+      "sha256": "05ebabf70939c3192689dd8e10ed67ee126bef9b0011a11b8a5b1fb6cb07b159"
+    },
+    {
+      "path": "OC/Resources/Label/AppleRecv.l2x",
+      "size": 3917,
+      "sha256": "e392929ade151bd3a9aa1be5af3172cd8b62ea4d5a71d0f5d23284eeed4b068c"
+    },
+    {
+      "path": "OC/Resources/Label/AppleRecv.lbl",
+      "size": 977,
+      "sha256": "64d97c131c4898e9658dcaed6f41d18fdc99c2f3ce57b6c17fe51582ad6ab8dc"
+    },
+    {
+      "path": "OC/Resources/Label/AppleTM.l2x",
+      "size": 3149,
+      "sha256": "be554bcb496358e27afc22c104a8b7b53b278b7cd235048b032de0ac9bf715e7"
+    },
+    {
+      "path": "OC/Resources/Label/AppleTM.lbl",
+      "size": 785,
+      "sha256": "14740dfb9ae756da0bbe711849698e4ffadce1af579b4acf8782f4148a9a76d0"
+    },
+    {
+      "path": "OC/Resources/Label/EFIBoot.l2x",
+      "size": 1997,
+      "sha256": "b54ab5ad6efaa91faaad7548f5123c6e7a8259f967016b469e10e0093838219e"
+    },
+    {
+      "path": "OC/Resources/Label/EFIBoot.lbl",
+      "size": 497,
+      "sha256": "65ccb5c20f0d66a66651a710872e8a907d7d41b7049c647d620bcad2ca8e35b0"
+    },
+    {
+      "path": "OC/Resources/Label/FirmwareSettings.l2x",
+      "size": 3989,
+      "sha256": "b394d10906753ac6b4b2093a3faa910f47c63b66a75d158af7c9b4bc5bb44f7d"
+    },
+    {
+      "path": "OC/Resources/Label/FirmwareSettings.lbl",
+      "size": 1001,
+      "sha256": "684cf28697853dde9a7b0dd808abdf9f3a1addc92cd18bd7cfc967ef2cf2e1e0"
+    },
+    {
+      "path": "OC/Resources/Label/Other.l2x",
+      "size": 2165,
+      "sha256": "6d3a2a558fee3182b56d92112978d6df263fafc5088bfbcab4cc487e5a91bcf1"
+    },
+    {
+      "path": "OC/Resources/Label/Other.lbl",
+      "size": 545,
+      "sha256": "9aa2273bf7f99fbabc7ee9040c5ce8990945c092f8431611aa572616827f7fca"
+    },
+    {
+      "path": "OC/Resources/Label/ResetNVRAM.l2x",
+      "size": 3221,
+      "sha256": "85830a7a31ec8e232bb894d15a56f58211982c3f675a3eb6fe8190f403000643"
+    },
+    {
+      "path": "OC/Resources/Label/ResetNVRAM.lbl",
+      "size": 809,
+      "sha256": "c7f13025cc256d057a0262a080ec0ed933fff720218bbf47c8762f2fe4350098"
+    },
+    {
+      "path": "OC/Resources/Label/Shell.l2x",
+      "size": 2405,
+      "sha256": "88bfe376d4d3efcc1ae36875b7ae0dc1fdf27f7a3c2d859b0b8a5f87f63ad1bf"
+    },
+    {
+      "path": "OC/Resources/Label/Shell.lbl",
+      "size": 605,
+      "sha256": "ef2b6cd9fc4e11c3ed558555fcfbe9fb3377fd5d87212ceb5e1dc1fa945e0445"
+    },
+    {
+      "path": "OC/Resources/Label/SIPDisabled.l2x",
+      "size": 4781,
+      "sha256": "49eeda24c9b7b6253186331f9c3eff8bbab7287dbba0caa1b8cd57df10af4318"
+    },
+    {
+      "path": "OC/Resources/Label/SIPDisabled.lbl",
+      "size": 1193,
+      "sha256": "4b15858879b7e012719cfd8b70928db011464d7482116b948f48c9b7b5b033a4"
+    },
+    {
+      "path": "OC/Resources/Label/SIPEnabled.l2x",
+      "size": 4661,
+      "sha256": "f22ce9288f8859aa0ce7609e4e20d36c3129fa580056a1c7a783aa65bb900430"
+    },
+    {
+      "path": "OC/Resources/Label/SIPEnabled.lbl",
+      "size": 1169,
+      "sha256": "5055101c0062c6111a5348ebefc167406050c86ca07c51880dd25879d531be57"
+    },
+    {
+      "path": "OC/Resources/Label/Tool.l2x",
+      "size": 1037,
+      "sha256": "2fd447ae24b4c1b43a631f5a116a1b5a59c58f49959fce4c5fed7e774f07bf24"
+    },
+    {
+      "path": "OC/Resources/Label/Tool.lbl",
+      "size": 257,
+      "sha256": "8009b579c70b91f032912694dd25da86bde6c194df1765914d099d8d8e4e7b35"
+    },
+    {
+      "path": "OC/Resources/Label/Windows.l2x",
+      "size": 2117,
+      "sha256": "c64885a9f5b7717321a49927de98f14d19cbb7ae121a1d0f9f62d7d74daf43e0"
+    },
+    {
+      "path": "OC/Resources/Label/Windows.lbl",
+      "size": 533,
+      "sha256": "a19afffbcff69562165a6ec37125f07b140dc58f0f14d1522c326c5cab3c09b3"
+    }
+  ],
+  "candidate": [
+    {
+      "path": "BOOT/BOOTx64.efi",
+      "bytes": 24576,
+      "sha256": "59b63df1712b3ab42781ff78b39d30b991148f0711724d7987859425c65c86a4"
+    },
+    {
+      "path": "OC/ACPI/SSDT-Baseline.aml",
+      "bytes": 1031,
+      "sha256": "d2a9b208ba5baf4f7d916361e9ae7c88cf7b780d3753fa49f655505e089f5ee9"
+    },
+    {
+      "path": "OC/config.plist",
+      "bytes": 24068,
+      "sha256": "9ba3e57da20dd18b78b32c4e61b0c03c0336a8044499756707bd3b59d49c87ff"
+    },
+    {
+      "path": "OC/Drivers/OpenHfsPlus.efi",
+      "bytes": 40960,
+      "sha256": "5598b69257366c66b81bbdb5c8bde52fca9880fe006ea09cd9f2f178636018aa"
+    },
+    {
+      "path": "OC/Drivers/OpenRuntime.efi",
+      "bytes": 24576,
+      "sha256": "c88586f482e8948bfe69208ae77c0f6defbc7841852ded078c5ad2d0adee7ad0"
+    },
+    {
+      "path": "OC/Drivers/ResetNvramEntry.efi",
+      "bytes": 45056,
+      "sha256": "e826c6bfce6ca5849b2b260344f95ef67cd8f87912c9db5208e9ae7f69244996"
+    },
+    {
+      "path": "OC/Kexts/AppleALC.kext/Contents/Info.plist",
+      "bytes": 434801,
+      "sha256": "3b41156e208211831827b4b87fe6450902ac6457dd045367f37a207d5d11cbe7"
+    },
+    {
+      "path": "OC/Kexts/AppleALC.kext/Contents/MacOS/AppleALC",
+      "bytes": 3781496,
+      "sha256": "5b67211797985272949b352eff0bb797504903a2ea4598e2d75d0ceca0ed5aa4"
+    },
+    {
+      "path": "OC/Kexts/BrightnessKeys.kext/Contents/Info.plist",
+      "bytes": 2251,
+      "sha256": "dcb67af7ba32d861ce548bb5856797bcd51c23ef662335fdb10865650d7b4e5a"
+    },
+    {
+      "path": "OC/Kexts/BrightnessKeys.kext/Contents/MacOS/BrightnessKeys",
+      "bytes": 37040,
+      "sha256": "74c5cbc2dbeba0aec76f53582c350d7d2b42dc93f23a81884f288805c7add662"
+    },
+    {
+      "path": "OC/Kexts/ECEnabler.kext/Contents/Info.plist",
+      "bytes": 2210,
+      "sha256": "b547b4255c09081a714d12406422ebfc3ca6b1bd2b2a2cc2f2724178cb1c0ecf"
+    },
+    {
+      "path": "OC/Kexts/ECEnabler.kext/Contents/MacOS/ECEnabler",
+      "bytes": 29992,
+      "sha256": "af2a3a6790a37f5ba71fbeaebc4e4e0d4f44cbbd6966089f0a8f7a454175213a"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/Info.plist",
+      "bytes": 2742,
+      "sha256": "b7798755a2dda3006783341efa5837444ceda21c7a743651276e1accbb8d4dd3"
+    },
+    {
+      "path": "OC/Kexts/Lilu.kext/Contents/MacOS/Lilu",
+      "bytes": 527456,
+      "sha256": "ff98508b40a1eb5fb477029db8886412520f8e39965279ea331c99e3d2e3b274"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/Info.plist",
+      "bytes": 2658,
+      "sha256": "157e7f138679eb4ee251b343069c5a6b0bdc4884a3dcaa9ab3df52e1f5c65015"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/MacOS/RealtekRTL8100",
+      "bytes": 152096,
+      "sha256": "84188ae09bee2bf1a90d8a60353d595972a20fdb05830df6b048eaf05f519716"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/Resources/en.lproj/InfoPlist.strings",
+      "bytes": 92,
+      "sha256": "39cf2ee07b7b333e7c179d0bf4d798a5b72af6a4e584f51e642703bbfa4fc828"
+    },
+    {
+      "path": "OC/Kexts/RealtekRTL8100.kext/Contents/Resources/gpl.txt",
+      "bytes": 18010,
+      "sha256": "b6babac7d1a5ba50e2896fe989ee2f8f83823909bee8a010a4ca0ff76a316501"
+    },
+    {
+      "path": "OC/Kexts/SMCBatteryManager.kext/Contents/Info.plist",
+      "bytes": 2922,
+      "sha256": "0a062d867bc8bbbce740e9e1d82dfab1dc70b0518721d55944421d0fb671bce9"
+    },
+    {
+      "path": "OC/Kexts/SMCBatteryManager.kext/Contents/MacOS/SMCBatteryManager",
+      "bytes": 209228,
+      "sha256": "245af80050cdcb8210d99dde1d2c0f0b672397fd27165be2be07c4cb2a2739a6"
+    },
+    {
+      "path": "OC/Kexts/SMCBatteryManager.kext/Contents/Resources/SSDT-BATC.dsl",
+      "bytes": 18419,
+      "sha256": "e66bbd57e5c6ef0ddbc3a6e51f68fe875d84709b73d4772e1c193269f2a89e4b"
+    },
+    {
+      "path": "OC/Kexts/SMCProcessor.kext/Contents/Info.plist",
+      "bytes": 2735,
+      "sha256": "f9ee30bebee59d2ee0e4cdfc876e7f92adabbeb837c84ea2dbc929ae4a73a5a8"
+    },
+    {
+      "path": "OC/Kexts/SMCProcessor.kext/Contents/MacOS/SMCProcessor",
+      "bytes": 45072,
+      "sha256": "58ea09935d5598e25ad00f965b87c470a47c7eca641c22470c537df6712dda31"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/Info.plist",
+      "bytes": 8649,
+      "sha256": "c197bd0ac6ddf2d114d803ee9289c5cade2eb639d09657a062206c310b4a057e"
+    },
+    {
+      "path": "OC/Kexts/VirtualSMC.kext/Contents/MacOS/VirtualSMC",
+      "bytes": 245408,
+      "sha256": "865f736ae87654ee31617692167c004bb3e282bf1d7b20d8e4ca353c6599068a"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/Info.plist",
+      "bytes": 19047,
+      "sha256": "5aebc0b113bed3e90a037398de1a80d2b48813c069c4d955200720057725235c"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/MacOS/VoodooI2C",
+      "bytes": 174528,
+      "sha256": "78213b539c31a158bd3fce3fea7bf0da8380c442a94f2b13ddd91d43717c9037"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/_CodeSignature/CodeResources",
+      "bytes": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/Info.plist",
+      "bytes": 4217,
+      "sha256": "e16709c9bc30545ed84857be7a1e7d88da4641349301d093ba62a421aa70812a"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/MacOS/VoodooGPIO",
+      "bytes": 303264,
+      "sha256": "4fabb5f4704f62956931abc84ea8248202d0a4a44546c7062a9e6665aa8423da"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/_CodeSignature/CodeResources",
+      "bytes": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/Info.plist",
+      "bytes": 2390,
+      "sha256": "d2673dc757b113df1df0ef1c8a218d80b9c5aef6abe5f515a64787a8cd10cc66"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/MacOS/VoodooI2CServices",
+      "bytes": 62544,
+      "sha256": "20c1544ab48ea9fdfb3498436e23d76f11d309d5adcdc8a4da35f8e4be7945f5"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/_CodeSignature/CodeResources",
+      "bytes": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/Info.plist",
+      "bytes": 2172,
+      "sha256": "8eb279b036ced4bc790132d5839322b97f62d0a91f334092e6a098d7fed43f37"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/MacOS/VoodooInput",
+      "bytes": 108320,
+      "sha256": "fbdd452f575139cd32c56a4b059b794be884262fb8e335d469dd4bfe4004853f"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2CHID.kext/Contents/_CodeSignature/CodeResources",
+      "bytes": 2200,
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2CHID.kext/Contents/Info.plist",
+      "bytes": 11139,
+      "sha256": "5c9e6eea43bcfb48740a860b6a622579b7b837afe93825d093b38c3be206c807"
+    },
+    {
+      "path": "OC/Kexts/VoodooI2CHID.kext/Contents/MacOS/VoodooI2CHID",
+      "bytes": 234208,
+      "sha256": "65975f7018ef10e2f058f46492f52fe49a5e5e2680dc7cf66af12b167f1d7f0a"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/Info.plist",
+      "bytes": 4326,
+      "sha256": "8aa06881627cd459cdf293a2903037d2df47548ee5b3c66be179f86375fb3aa7"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller",
+      "bytes": 102472,
+      "sha256": "f78d6bf95fb403eccdebf3590015606d5ce4ea73bb78c3f1f20f03ce037b4e24"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist",
+      "bytes": 20329,
+      "sha256": "2fc964e03056dbd290df3891f8d105eab9bdd471160db2cdf2b21fdd634fbf87"
+    },
+    {
+      "path": "OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard",
+      "bytes": 50344,
+      "sha256": "b55758219af1b12b1c0e5e116ff1ee65dc5d8484086e5231103c242a5858a1e5"
+    },
+    {
+      "path": "OC/Kexts/WhateverGreen.kext/Contents/Info.plist",
+      "bytes": 3017,
+      "sha256": "e5d48120caf8b75d345ff1df26e23cf0ea7bccee45066eed53b63dc32ca13ce7"
+    },
+    {
+      "path": "OC/Kexts/WhateverGreen.kext/Contents/MacOS/WhateverGreen",
+      "bytes": 531944,
+      "sha256": "44b6273a8dcf4d89fa454c402f1626f57ec9a7efb3e3a2d4bd70eaef2c508562"
+    },
+    {
+      "path": "OC/OpenCore.efi",
+      "bytes": 626688,
+      "sha256": "8e83a3dd984a4196c1fd9e40d75a6550111a959e44c0668bd9e08098bf0a1ae6"
+    }
+  ]
+}

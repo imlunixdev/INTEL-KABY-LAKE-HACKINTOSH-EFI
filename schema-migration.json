@@ -1,0 +1,12 @@
+{
+  "schema_removed": [
+    "ACPI/Quirks/EnableForAll",
+    "Booter/Quirks/EnableForAll"
+  ],
+  "automatic_platform_info_removed": [
+    "PlatformInfo/DataHub",
+    "PlatformInfo/PlatformNVRAM",
+    "PlatformInfo/SMBIOS"
+  ],
+  "note": "Free-form DeviceProperties retained with explicit graphics cleanup. NVRAM entries reviewed separately; see audit. Disabled custom serial settings replaced with release defaults."
+}

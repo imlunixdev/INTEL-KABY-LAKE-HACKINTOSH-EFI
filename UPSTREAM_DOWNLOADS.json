@@ -1,0 +1,50 @@
+[
+  {
+    "component": "acidanthera_Lilu",
+    "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.2/Lilu-1.7.2-RELEASE.zip",
+    "sha256": "53967d7dcfaab01023a33df2e969a89522f13d6654a6a56ac4711b62dabf3ab8",
+    "upstream_digest_verified": true
+  },
+  {
+    "component": "acidanthera_WhateverGreen",
+    "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.7.0/WhateverGreen-1.7.0-RELEASE.zip",
+    "sha256": "6d6ffe8334ad60f784a662794e67b2560b79d757d506841dc8ca9994ab39979b",
+    "upstream_digest_verified": true
+  },
+  {
+    "component": "acidanthera_VirtualSMC",
+    "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.7/VirtualSMC-1.3.7-RELEASE.zip",
+    "sha256": "12f1d379969f926306fa92d94ddbf33b32b31176589dc42089d864a26b31b700",
+    "upstream_digest_verified": true
+  },
+  {
+    "component": "acidanthera_AppleALC",
+    "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.7/AppleALC-1.9.7-RELEASE.zip",
+    "sha256": "81a8ba79986130e8c845fff595950226cbc30e588f8d37089e467f776469c29d",
+    "upstream_digest_verified": true
+  },
+  {
+    "component": "acidanthera_VoodooPS2",
+    "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.7/VoodooPS2Controller-2.3.7-RELEASE.zip",
+    "sha256": "d5483298736ba4b3b82c7203d9a46968c668fb7af732b8b22c2096deb0acf83f",
+    "upstream_digest_verified": false
+  },
+  {
+    "component": "VoodooI2C_VoodooI2C",
+    "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.9.1/VoodooI2C-2.9.1-RELEASE.zip",
+    "sha256": "368e5eb60794583c340764813bd7e8244e94d3d3c06ea5b67034addd539487f4",
+    "upstream_digest_verified": false
+  },
+  {
+    "component": "acidanthera_BrightnessKeys",
+    "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.3/BrightnessKeys-1.0.3-RELEASE.zip",
+    "sha256": "c9a80f6275e39c18886087a70ba0fe615ce45f83b7afa254b74335f7a92b8544",
+    "upstream_digest_verified": false
+  },
+  {
+    "component": "1Revenger1_ECEnabler",
+    "url": "https://github.com/averycblack/ECEnabler/releases/download/1.0.6/ECEnabler-1.0.6-RELEASE.zip",
+    "sha256": "e21149519856308c6c4c06e0917aef9e3423ff3e23b6ea77989099f4f2cf0f0a",
+    "upstream_digest_verified": true
+  }
+]
