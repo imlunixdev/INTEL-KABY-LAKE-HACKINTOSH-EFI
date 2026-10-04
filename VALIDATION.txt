@@ -1,0 +1,10 @@
+Static checks PASS: source preserved, identifiers sanitized, all references present, dependency order correct, single VoodooInput, valid AML checksum, official RELEASE components.
+
+NOTE: This version of ocvalidate is only compatible with OpenCore version 1.0.7!
+
+
+Completed validating outputs\EFI-Ventura-v2\EFI\OC\config.plist in 2 ms. No issues found.
+
+ACPI: iASL 20260408: 0 errors, 0 warnings, 3 unused PMPM argument remarks.
+Physical tests: NOT TESTED. USB map: MISSING.
+RAR integrity check PASS. Extracted archive file set and hashes exactly match all 46 candidate files. Single top-level EFI folder.
